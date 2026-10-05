@@ -1,10 +1,10 @@
-title: "📓 11ty Journal"
-description: "A 📓 11ty Journal a minimalist boostrap theme"
+title: "sharp little guy"
+description: "sharp little guy"
 language: "en"
 image: /logo.svg
 favicon: /logo.svg
-url: "https://journal.000000076.xyz"
-#url: "http://localhost:8080/"
+#url: "https://sharplittleguy.com"
+url: "http://localhost:8080"
 locale: en_US
 
 metasocial: 
@@ -16,7 +16,7 @@ formspree_id: "https://formspree.io/f/"
 toc_widget_title: On This Page
 
 nav_logo:
- title: 📓 11ty Journal
+ title: sharp little guy
 
 navbar: 
  - nav: About
